@@ -1,0 +1,11 @@
+c:\users\jared\documents\visual studio 2013\Projects\FunctionGenerator\FunctionGenerator\bin\Debug\FunctionGenerator.exe.config
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\FunctionGenerator\FunctionGenerator\bin\Debug\FunctionGenerator.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\FunctionGenerator\FunctionGenerator\bin\Debug\FunctionGenerator.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\FunctionGenerator\FunctionGenerator\obj\Debug\FunctionGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\FunctionGenerator\FunctionGenerator\obj\Debug\FunctionGenerator.Form1.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\FunctionGenerator\FunctionGenerator\obj\Debug\FunctionGenerator.Properties.Resources.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\FunctionGenerator\FunctionGenerator\obj\Debug\FunctionGenerator.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\FunctionGenerator\FunctionGenerator\obj\Debug\FunctionGenerator.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\FunctionGenerator\FunctionGenerator\obj\Debug\FunctionGenerator.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\FunctionGenerator\FunctionGenerator\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\FunctionGenerator\FunctionGenerator\bin\Debug\NationalInstruments.DAQmx.xml
